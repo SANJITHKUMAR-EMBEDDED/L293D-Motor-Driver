@@ -1,7 +1,7 @@
 # L293D-Motor-Driver
 # Project #3: L293D Motor Driver Module
 
-![3D Render of L293D Board](3d_renders/image_1b275e.png)
+![3D Render of L293D Board]
 
 This is Project 3 of my #50BoardChallenge. This is a 2-channel H-Bridge motor driver board, designed to control the speed and direction of two DC motors.
 
